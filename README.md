@@ -7,7 +7,7 @@ Web & Game Developer
 A curious web developer, a passionate game developer.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [MyPortfolio](http://okdere.com/)
+* 🖥️  See my portfolio at [MyPortfolio](https://oguz-portfolio.vercel.app/)
 * ✉️  You can contact me at [ogzkaann96@gmail.com](mailto:ogzkaann96@gmail.com)
 * 🧠  I'm learning Unreal Engine
 * 🤝  I'm open to collaborating on Game Projects (Mobile/PC)
