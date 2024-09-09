@@ -4,7 +4,7 @@
 I'm a versatile developer with a passion for building robust web applications and exploring cutting-edge technologies. I am focused on mastering full-stack development and solving complex challenges through code.
 
 - 🌍 **Location:** Based in Turkey  
-- 🖥️ **Portfolio:** [MyPortfolio](https://oguz-portfolio.vercel.app/)  
+- 🖥️ **Portfolio:** [MyPortfolio](https://oguzdere.vercel.app/)  
 - 📧 **Contact Me:** [ogzkaann96@gmail.com](mailto:ogzkaann96@gmail.com)  
 - 🎯 **Current Focus:** Full Stack Development, Freelance Opportunities, and Remote Job Hunting Worldwide as a Digital Nomad  
 - 🤝 **Open to Collaborations:** Software Development Projects, Freelance Work, and Innovative Tech Solutions  
