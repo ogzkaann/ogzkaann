@@ -52,16 +52,11 @@ Vite, Material UI, Docker, Git, Adobe Creative Suite
 
 ### 🌐 Connect with Me
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/ogzkaann) 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/oguz-kaan-dere) 
-[![Medium](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg)](http://www.medium.com/@ogzkaann) 
-[![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.twitter.com/oguzkdere) 
-[![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://www.youtube.com/c/oguz-kaan-dere)
-
-<style>
-  img { width: 24px; height: 24px; }
-</style>
-
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24">](https://www.github.com/ogzkaann)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24">](https://www.linkedin.com/in/oguz-kaan-dere)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="24" height="24">](http://www.medium.com/@ogzkaann)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24">](https://www.twitter.com/oguzkdere)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="24" height="24">](https://www.youtube.com/c/oguz-kaan-dere)
 
 ---
 
