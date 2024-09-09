@@ -1,46 +1,63 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oguz
-============================================================================================================================
+## Hi there! 👋 I'm Oguz Kaan Dere
+### Full Stack Developer | Tech Enthusiast | Problem Solver
 
-Web & Game Developer
---------------------
+I'm a versatile developer with a passion for building robust web applications and exploring cutting-edge technologies. I am focused on mastering full-stack development and solving complex challenges through code.
 
-A curious web developer, a passionate game developer.
+- 🌍 **Location:** Based in Turkey  
+- 🖥️ **Portfolio:** [MyPortfolio](https://oguz-portfolio.vercel.app/)  
+- 📧 **Contact Me:** [ogzkaann96@gmail.com](mailto:ogzkaann96@gmail.com)  
+- 🎯 **Current Focus:** Full Stack Development, Freelance Opportunities, and Remote Job Hunting Worldwide as a Digital Nomad  
+- 🤝 **Open to Collaborations:** Software Development Projects, Freelance Work, and Innovative Tech Solutions  
+- 🧩 **LeetCode:** [oguzkaan](https://leetcode.com/oguzkaan/)
 
-* 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [MyPortfolio](https://oguz-portfolio.vercel.app/)
-* ✉️  You can contact me at [ogzkaann96@gmail.com](mailto:ogzkaann96@gmail.com)
-* 🧠  I'm learning Unreal Engine
-* 🤝  I'm open to collaborating on Game Projects (Mobile/PC)
+---
 
-### Skills
+### 🚀 Skills
 
+**Programming Languages:**  
+JavaScript, TypeScript, Python, C#, Java, Go
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+**Frontend Development:**  
+HTML5, CSS3, React, Vue.js, TailwindCSS, Bootstrap
 
+**Backend Development:**  
+Node.js, GraphQL, PostgreSQL, MongoDB, RESTful APIs, Java (Spring Boot)
 
-### Socials
+**Game Development:**  
+Unity
 
-<p align="left"> <a href="https://www.github.com/ogzkaann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oguz-kaan-dere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ogzkaann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oguzkdere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/oguz-kaan-dere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+**Tools & Frameworks:**  
+Vite, Material UI, Docker, Git, Adobe Creative Suite
+
+---
+
+### 📚 Projects
+
+- **Job Application Tracker**: A web app to streamline job applications tailored for the job market. Built with Node.js, Vue 3, and PostgreSQL.
+- **Custom iBeacon Notification App**: Developed a custom Android application using Java and Android Studio that detects nearby iBeacons and sends personalized notifications based on the detected beacon.
+- **Portfolio Website**: A personal portfolio website to showcase my projects, skills, and experience, built using modern web development technologies like React and TailwindCSS.
+
+- **Future Projects**:
+- **Java (Spring Boot) Application: Weather Notification Service**  
+  - **Project:** A microservice that sends daily or weekly weather updates to users.  
+  - **Features:** Integration with a third-party weather API, support for email or SMS notifications, and scheduled tasks based on user preferences.  
+
+- **Go (Golang) Application: URL Shortener Service**  
+  - **Project:** A simple URL shortening service.  
+  - **Features:** URL shortening, tracking statistics for shortened URLs (view count, last access time), and database support.  
+
+- **Python Real-Time German-Turkish Translator with Grammar Check**  
+  - **Project:** A program that translates spoken language from German to Turkish in real-time and identifies grammatical errors in the sentences. This will later be adapted for mobile use.  
+---
+
+### 🌐 Connect with Me
+
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/ogzkaann) 
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/oguz-kaan-dere) 
+[![Medium](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg)](http://www.medium.com/@ogzkaann) 
+[![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.twitter.com/oguzkdere) 
+[![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://www.youtube.com/c/oguz-kaan-dere)
+
+---
+
+Looking forward to connecting and collaborating on exciting new projects!
