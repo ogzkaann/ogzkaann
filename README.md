@@ -58,6 +58,11 @@ Vite, Material UI, Docker, Git, Adobe Creative Suite
 [![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.twitter.com/oguzkdere) 
 [![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://www.youtube.com/c/oguz-kaan-dere)
 
+<style>
+  img { width: 24px; height: 24px; }
+</style>
+
+
 ---
 
 Looking forward to connecting and collaborating on exciting new projects!
