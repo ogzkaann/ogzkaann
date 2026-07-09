@@ -43,7 +43,7 @@ AI-assisted university admission fit checker that extracts academic profiles fro
 
 **Stack:** Vite, React, TypeScript, TailwindCSS, IndexedDB/Dexie, pdfjs, Tesseract.js, Zod, BYOK AI, Vercel
 
-#### Schleimer — AI Persuasion Game *(in progress)*
+#### [Schleimer — AI Persuasion Game](https://schleimer.vercel.app/) · [GitHub](https://github.com/ogzkaann/schleimer)
 A sarcastic AI dialogue game where the player tries to convince a grumpy AI boss to hire them.
 
 **Designed around:** hidden skill cards, suggested/editable answers, deterministic scoring, boss patience, hire chance, Schleim level, multiple endings, and constrained AI dialogue rather than uncontrolled chatbot behavior.
