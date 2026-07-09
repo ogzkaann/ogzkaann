@@ -1,63 +1,101 @@
-## Hi there! 👋 I'm Oguz Kaan Dere
-### Full Stack Developer | Tech Enthusiast | Problem Solver
+## Hi, I'm Oguz Kaan Dere
+### AI-native Full-Stack Developer · Product-minded Builder · Biomedical Engineering Background
 
-I'm a versatile developer with a passion for building robust web applications and exploring cutting-edge technologies. I am focused on mastering full-stack development and solving complex challenges through code.
+I'm a software developer based in **Düsseldorf, Germany**, building practical web products that combine clean frontend engineering, document workflows, AI-assisted analysis, and domain-specific decision systems.
 
-- 🌍 **Location:** Based in Turkey  
-- 🖥️ **Portfolio:** [MyPortfolio](https://oguzdere.vercel.app/)  
-- 📧 **Contact Me:** [ogzkaann96@gmail.com](mailto:ogzkaann96@gmail.com)  
-- 🎯 **Current Focus:** Full Stack Development, Freelance Opportunities, and Remote Job Hunting Worldwide as a Digital Nomad  
-- 🤝 **Open to Collaborations:** Software Development Projects, Freelance Work, and Innovative Tech Solutions  
+My background connects **enterprise web software**, **hospital information systems**, **biomedical engineering**, and recent hands-on work with **local-first AI products, RAG, OCR, BYOK AI, and rule-based fit/decision engines**.
+
+- 🌍 **Location:** Düsseldorf, NRW, Germany
+- 🖥️ **Portfolio:** [oguzdere.vercel.app](https://oguzdere.vercel.app/)
+- 📧 **Contact:** [ogzkaann96@gmail.com](mailto:ogzkaann96@gmail.com)
+- 💼 **Open to:** Full-stack, frontend, AI-assisted product, document-workflow, and MedTech/digital-health related software roles in Germany
+- 🇩🇪 **Current focus:** German language development, Germany job-market alignment, and focused AI/product portfolio projects
 - 🧩 **LeetCode:** [oguzkaan](https://leetcode.com/oguzkaan/)
 
 ---
 
-### 🚀 Skills
+### What I build
 
-**Programming Languages:**  
-JavaScript, TypeScript, Python, C#, Java, Go
+I like turning messy real-world processes into clear product flows:
 
-**Frontend Development:**  
-HTML5, CSS3, React, Vue.js, TailwindCSS, Bootstrap
-
-**Backend Development:**  
-Node.js, GraphQL, PostgreSQL, MongoDB, RESTful APIs, Java (Spring Boot)
-
-**Game Development:**  
-Unity
-
-**Tools & Frameworks:**  
-Vite, Material UI, Docker, Git, Adobe Creative Suite
+- source-aware AI tools that **do not hallucinate legal or admission claims**
+- local-first apps where personal documents stay under user control
+- PDF/OCR/document extraction workflows
+- RAG prototypes with citations and uncertainty handling
+- practical dashboards, fit engines, and decision-support interfaces
+- playful AI interaction concepts and small game-like products
 
 ---
 
-### 📚 Projects
+### Featured Projects
 
-- **Job Application Tracker**: A web app to streamline job applications tailored for the job market. Built with Node.js, Vue 3, and PostgreSQL.
-- **Custom iBeacon Notification App**: Developed a custom Android application using Java and Android Studio that detects nearby iBeacons and sends personalized notifications based on the detected beacon.
-- **Portfolio Website**: A personal portfolio website to showcase my projects, skills, and experience, built using modern web development technologies like React and TailwindCSS.
+#### [Germany Path Finder](https://germany-path-finder.vercel.app/) · [GitHub](https://github.com/ogzkaann/germany-path-finder)
+Local-first RAG decision-support tool for Germany residence and career path planning.
 
-- **Future Projects**:
-- **Java (Spring Boot) Application: Weather Notification Service**  
-  - **Project:** A microservice that sends daily or weekly weather updates to users.  
-  - **Features:** Integration with a third-party weather API, support for email or SMS notifications, and scheduled tasks based on user preferences.  
+**Designed around:** owner-curated official PDFs, source citations, BYOK Gemini/OpenAI-compatible AI, IndexedDB storage, PDF ingestion, conservative uncertainty handling, and a clear “not legal advice” boundary.
 
-- **Go (Golang) Application: URL Shortener Service**  
-  - **Project:** A simple URL shortening service.  
-  - **Features:** URL shortening, tracking statistics for shortened URLs (view count, last access time), and database support.  
+**Stack:** Vite, React, TypeScript, TailwindCSS, IndexedDB/Dexie, pdfjs, RAG, BYOK AI, Vercel
 
-- **Python Real-Time German-Turkish Translator with Grammar Check**  
-  - **Project:** A program that translates spoken language from German to Turkish in real-time and identifies grammatical errors in the sentences. This will later be adapted for mobile use.  
+#### [Admission Fit Checker](https://admission-fit-checker.vercel.app/) · [GitHub](https://github.com/ogzkaann/admission-fit-checker)
+AI-assisted university admission fit checker that extracts academic profiles from PDFs/images and compares them with program requirements.
+
+**Designed around:** transcript/profile extraction, OCR with Tesseract.js, conservative fit scoring, program requirement modeling, human review before analysis, and local-first privacy.
+
+**Stack:** Vite, React, TypeScript, TailwindCSS, IndexedDB/Dexie, pdfjs, Tesseract.js, Zod, BYOK AI, Vercel
+
+#### Schleimer — AI Persuasion Game *(in progress)*
+A sarcastic AI dialogue game where the player tries to convince a grumpy AI boss to hire them.
+
+**Designed around:** hidden skill cards, suggested/editable answers, deterministic scoring, boss patience, hire chance, Schleim level, multiple endings, and constrained AI dialogue rather than uncontrolled chatbot behavior.
+
+**Planned stack:** React, TypeScript, lightweight AI API, game-state engine
+
+#### Local Company Document Assistant *(concept)*
+Privacy-focused document assistant for small companies that answers questions only from internal PDFs, handbooks, catalogues, or FAQs.
+
+**Designed around:** local/private document Q&A, citations, controlled retrieval, and a no-cloud-database setup for sensitive company documents.
+
 ---
 
-### 🌐 Connect with Me
+### Skills
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24">](https://www.github.com/ogzkaann)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24">](https://www.linkedin.com/in/oguz-kaan-dere)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="24" height="24">](http://www.medium.com/@ogzkaann)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24">](https://www.twitter.com/oguzkdere)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="24" height="24">](https://www.youtube.com/c/oguz-kaan-dere)
+**Frontend:** React, Next.js, Angular, Vue.js, TypeScript, JavaScript, TailwindCSS, HTML5, CSS3
+
+**Backend & APIs:** Java, Spring Boot, Node.js, NestJS, Express/Fastify, REST APIs, JWT, SQL
+
+**Data & Storage:** PostgreSQL, Oracle, PL/SQL, MongoDB, IndexedDB/Dexie, basic vector search concepts
+
+**AI / Applied LLMs:** RAG, OCR, Tesseract.js, pdfjs, BYOK AI, Gemini/OpenAI-compatible APIs, Ollama, OpenWebUI, prompt/system design, document extraction
+
+**Tools:** Git, GitHub, Docker, Vercel, GitHub Actions, Linux, Playwright, CI/CD basics
+
+**Game / Creative:** Unity, C#, Blender, Adobe Photoshop, game prototyping
+
+**Domain:** Biomedical Engineering, hospital software, MedTech interest, document-heavy workflows
 
 ---
 
-Looking forward to connecting and collaborating on exciting new projects!
+### Experience Snapshot
+
+- **Independent AI Product Builder / Portfolio Sprint** — local-first AI-assisted web products, RAG/OCR/document workflows, Vercel/GitHub deployments
+- **Full-Stack / Frontend Developer — Ekinoks Software** — enterprise Angular/TypeScript frontend, complex UI modules, API integration, professional software team workflows
+- **Full-Stack Developer — Fonet Software** — hospital information system development with Java, JavaScript, ExtJS, Oracle/PLSQL
+- **Game Developer / Incubation — ATOM / METU** — Unity prototypes, gameplay systems, game jams, and product experimentation
+
+---
+
+### Product Thinking
+
+I try to design AI products where the important parts are not hidden inside a prompt:
+
+- model the problem as explicit data structures and rules
+- separate source retrieval, user data, AI explanation, and final user decision
+- constrain AI instead of letting it freely invent answers
+- show citations, missing evidence, and uncertainty clearly
+- build MVPs that are demoable, deployable, and explainable
+
+---
+
+### Connect
+
+[Portfolio](https://oguzdere.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [GitHub](https://github.com/ogzkaann) · [Email](mailto:ogzkaann96@gmail.com)
