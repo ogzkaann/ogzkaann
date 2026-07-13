@@ -1,7 +1,7 @@
 ## Hi, I'm Oguz Kaan Dere
 ### AI-native Full-Stack Developer · Product-minded Builder · Biomedical Engineering Background
 
-I'm a software developer based in **Düsseldorf, Germany**, building practical web products that combine clean frontend engineering, document workflows, AI-assisted analysis, and domain-specific decision systems.
+I'm a software developer based in **Düsseldorf, Germany**, building practical web products that combine clean frontend engineering, document workflows, AI-assisted analysis, and domain-specific decision systems. 
 
 My background connects **enterprise web software**, **hospital information systems**, **biomedical engineering**, and recent hands-on work with **local-first AI products, RAG, OCR, BYOK AI, and rule-based fit/decision engines**.
 
