@@ -84,6 +84,14 @@ Privacy-focused document assistant for small companies that answers questions on
 
 ---
 
+### Open Source Contributions
+
+- **Godot Engine — Turkish Localization Contributor**  
+  Contributing technical Turkish translations for the official Godot Editor through Weblate, with **87+ translated strings** focused on clear and consistent editor terminology.  
+  [View contribution profile](https://hosted.weblate.org/user/oguzkdere/)
+
+---
+
 ### Product Thinking
 
 I try to design AI products where the important parts are not hidden inside a prompt:
