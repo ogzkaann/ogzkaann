@@ -38,13 +38,13 @@ A minimalist weather application where live forecast data drives a custom WebGL 
 
 **Stack:** React, TypeScript, WebGL2, GLSL, Vite, Open-Meteo, Vitest, GitHub Actions
 
-### Swarm Script — programmable swarm roguelite *(in development)*
+### [Swarm Script](https://github.com/ogzkaann/swarm-script) · [Live demo](https://swarm-script.vercel.app/)
 
-A browser game where players program autonomous combat robots with a small Python-like scripting language.
+A tactical automation roguelite where players program three autonomous combat robots with a small, safe rule language and watch their logic fight through a deterministic arena run.
 
-**Engineering focus:** a safe custom DSL and interpreter, deterministic worker-based simulation, React/Phaser separation, Monaco-powered editing, replayable combat, analysis tooling, and a playable three-wave vertical slice.
+**Engineering focus:** tokenizer and recursive-descent parser, typed AST and source diagnostics, budgeted interpreter without `eval`, deterministic fixed-step simulation in a Web Worker, typed snapshot protocol, React/Phaser separation, Monaco-powered editing, run analytics, Playwright browser verification, and a complete three-wave vertical slice.
 
-**Stack:** React, TypeScript, Phaser, Monaco Editor, Web Workers
+**Stack:** React, TypeScript, Phaser 4, Monaco Editor, Web Workers, Vite, Vitest, Playwright, Vercel
 
 ### [Germany Path Finder](https://github.com/ogzkaann/germany-path-finder) · [Live demo](https://germany-path-finder.vercel.app/)
 
