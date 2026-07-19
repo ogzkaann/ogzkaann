@@ -58,7 +58,7 @@ An AI-assisted university admission analysis tool that extracts academic profile
 
 **Engineering focus:** PDF/image extraction, OCR fallback, typed validation, human review before analysis, explainable fit scoring, local-first privacy, and explicit missing-evidence handling.
 
-**Selected smaller projects:** [Roshambo Is Not Random](https://github.com/ogzkaann/roshambo-is-not-random) · [Schleimer](https://github.com/ogzkaann/schleimer) · [Career Ops](https://github.com/ogzkaann/career-ops)
+**Selected smaller projects:** [Roshambo Is Not Random](https://github.com/ogzkaann/roshambo-is-not-random) · [Schleimer](https://github.com/ogzkaann/schleimer)
 
 ---
 
