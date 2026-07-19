@@ -6,7 +6,7 @@ I'm a software engineer based in **Düsseldorf, Germany**, with four years of pr
 
 I build deployable products that combine **Java/Spring backend design**, **performance-conscious React architecture**, **resilient data flows**, **controlled AI workflows**, and **deterministic browser-based systems**. My Biomedical Engineering background also gives me a strong interest in MedTech and domain-heavy software.
 
-[Portfolio](https://www.okdere.com) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [Email](mailto:ogzkaann96@gmail.com) · [LeetCode](https://leetcode.com/oguzkaan/)
+[Portfolio](https://okdere.com) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [Email](mailto:ogzkaann96@gmail.com) · [LeetCode](https://leetcode.com/oguzkaan/)
 
 **Open to:** Full-stack, frontend, Java/backend, AI-product, MedTech, and technical game/interactive software roles in Germany.
 
@@ -101,4 +101,4 @@ Technical Turkish translations for the official Godot Editor through Weblate, wi
 
 ---
 
-[Portfolio](https://www.okdere.com) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [GitHub](https://github.com/ogzkaann) · [Email](mailto:ogzkaann96@gmail.com)
+[Portfolio](https://okdere.com) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [GitHub](https://github.com/ogzkaann) · [Email](mailto:ogzkaann96@gmail.com)
