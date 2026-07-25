@@ -1,104 +1,107 @@
 # Oguz Kaan Dere
 
-### Full-Stack Engineer · Frontend Architecture · Backend Systems · Interactive Products
+### Software Engineer · Java & Spring · React & TypeScript · Android Products
 
-I'm a software engineer based in **Düsseldorf, Germany**, with four years of professional experience across enterprise web applications and hospital information systems.
+I am a software engineer based in **Düsseldorf, Germany**, with four years of professional experience across enterprise frontend systems, Java/JavaScript full-stack development, and hospital information software.
 
-I build deployable products that combine **Java/Spring backend design**, **performance-conscious React architecture**, **resilient data flows**, **controlled AI workflows**, and **deterministic browser-based systems**. My Biomedical Engineering background also gives me a strong interest in MedTech and domain-heavy software.
+I build products with explicit domain rules, resilient data flows, typed interfaces, and reviewable technical decisions. My current work spans **Java microservices**, **React architecture**, **native Android development**, controlled AI/document workflows, and deterministic interactive systems.
 
 [Portfolio](https://okdere.com) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [Email](mailto:ogzkaann96@gmail.com) · [LeetCode](https://leetcode.com/oguzkaan/)
 
-**Open to:** Full-stack, frontend, Java/backend, AI-product, MedTech, and technical game/interactive software roles in Germany.
+**Based in:** Düsseldorf, Germany  
+**Open to:** Full-stack, Java/backend, frontend, implementation-oriented, AI-product, and MedTech software roles
 
 ---
 
-## Featured engineering projects
+## Featured work
 
 ### [LedgerFlow](https://github.com/ogzkaann/ledgerflow-banking-platform) — resilient banking platform
 
-A Java microservice portfolio system built around a production-style Account Service.
+A complete educational banking platform demonstrating a durable, eventually consistent transfer workflow across independently deployable Java services.
 
-**Engineering focus:** framework-free domain objects, ports and adapters, PostgreSQL and Flyway, immutable ledger entries, pessimistic row locking, reconciliation, RFC-style API errors, OpenAPI 3.1, integration testing, architecture decision records, and a verified multi-module build.
+**Engineering focus:** immutable account ledgers, reservations and compensation, transactional outboxes, idempotent consumers, Kafka workflows, PostgreSQL-owned service data, Redis-backed protective controls, Keycloak authorization, structured observability, and a role-aware React operations console.
 
-**Stack:** Java 25, Spring Boot, Spring Cloud Gateway, PostgreSQL, Flyway, Maven, Docker, GitHub Actions
+**Quality proof:** OpenAPI and AsyncAPI contracts, Testcontainers integration suites, real Kafka/four-database end-to-end verification, Playwright browser journeys, CodeQL, SBOM generation, and GitHub Actions.
 
-### [context-api-but-it-scales](https://github.com/ogzkaann/context-api-but-it-scales) · [Live demo](https://ogzkaann.github.io/context-api-but-it-scales/)
+**Stack:** Java 25, Spring Boot, Spring Cloud Gateway, Kafka, PostgreSQL, Redis, Keycloak, React, TypeScript, Docker, Playwright
 
-A measured React rendering experiment comparing conventional shared Context with a selector-based external store.
+### Tip Tracker — Android earnings and shift ledger
 
-**Engineering focus:** `useSyncExternalStore`, selector subscriptions, real render instrumentation, immutable state, undo/redo, versioned persistence, loop-free `BroadcastChannel` synchronization, accessibility, responsive QA, behavioral tests, CI, and GitHub Pages deployment.
+A private commercial Android product being prepared for Google Play. It helps couriers, hospitality workers, freelancers, and multi-job workers record changing shifts, income, tips, breaks, deductions, and true hourly earnings without requiring an account.
 
-**Stack:** React, TypeScript, Vite, Vitest, React Testing Library, GitHub Actions
+**Engineering focus:** offline-first storage, fast accessible shift entry, job-specific presets, trustworthy money and duration calculations, Room migrations, monthly insights, calendar history, and local German/English PDF timesheets.
 
-### [Yet Another Weather App — but with shaders](https://github.com/ogzkaann/yet-another-weather-app-but-with-shaders) · [Live demo](https://ogzkaann.github.io/yet-another-weather-app-but-with-shaders/)
-
-A minimalist weather application where live forecast data drives a custom WebGL atmosphere.
-
-**Engineering focus:** typed Open-Meteo integration, defensive normalization, abortable and deduplicated requests, race protection, stale-while-revalidate caching, accessible location search, WebGL2/GLSL lifecycle management, deterministic procedural scenes, reduced-motion support, and GPU cleanup.
-
-**Stack:** React, TypeScript, WebGL2, GLSL, Vite, Open-Meteo, Vitest, GitHub Actions
+**Stack:** Kotlin, Jetpack Compose, Material 3, Room, DataStore, Hilt, Coroutines, Flow, Android CI
 
 ### [Swarm Script](https://github.com/ogzkaann/swarm-script) · [Live demo](https://swarm-script.vercel.app/)
 
-A tactical automation roguelite where players program three autonomous combat robots with a small, safe rule language and watch their logic fight through a deterministic arena run.
+A tactical automation roguelite where players program three autonomous combat robots with a small rule language and watch their logic fight through a deterministic arena run.
 
-**Engineering focus:** tokenizer and recursive-descent parser, typed AST and source diagnostics, budgeted interpreter without `eval`, deterministic fixed-step simulation in a Web Worker, typed snapshot protocol, React/Phaser separation, Monaco-powered editing, run analytics, Playwright browser verification, and a complete three-wave vertical slice.
+**Engineering focus:** tokenizer and recursive-descent parser, typed AST, source diagnostics, budgeted interpreter without `eval`, fixed-step simulation in a Web Worker, Monaco editing, Phaser rendering, and Playwright verification.
 
-**Stack:** React, TypeScript, Phaser 4, Monaco Editor, Web Workers, Vite, Vitest, Playwright, Vercel
+**Stack:** React, TypeScript, Phaser 4, Monaco Editor, Web Workers, Vite, Vitest, Playwright
 
 ### [Germany Path Finder](https://github.com/ogzkaann/germany-path-finder) · [Live demo](https://germany-path-finder.vercel.app/)
 
 A local-first RAG decision-support tool for Germany residence and career-path research.
 
-**Engineering focus:** owner-curated official sources, PDF ingestion, citations, BYOK model access, IndexedDB persistence, conservative uncertainty handling, and a clear separation between retrieved evidence, AI explanation, and user decisions.
+**Engineering focus:** curated official sources, PDF ingestion, citations, BYOK model access, IndexedDB persistence, conservative uncertainty handling, and separation between evidence, AI explanation, and user decisions.
 
-### [Admission Fit Checker](https://github.com/ogzkaann/admission-fit-checker) · [Live demo](https://admission-fit-checker.vercel.app/)
+### [Weather with Shaders](https://github.com/ogzkaann/yet-another-weather-app-but-with-shaders) · [Live demo](https://ogzkaann.github.io/yet-another-weather-app-but-with-shaders/)
 
-An AI-assisted university admission analysis tool that extracts academic profiles from transcripts and compares them with structured program requirements.
+A minimalist weather application where live forecast data drives a custom WebGL atmosphere.
 
-**Engineering focus:** PDF/image extraction, OCR fallback, typed validation, human review before analysis, explainable fit scoring, local-first privacy, and explicit missing-evidence handling.
-
-**Selected smaller projects:** [Roshambo Is Not Random](https://github.com/ogzkaann/roshambo-is-not-random) · [Schleimer](https://github.com/ogzkaann/schleimer)
+**Engineering focus:** typed Open-Meteo integration, abortable and deduplicated requests, race protection, stale-while-revalidate caching, accessible search, deterministic procedural scenes, reduced-motion support, and GPU cleanup.
 
 ---
 
-## Engineering principles
+## Game work
+
+### Night Soup — cozy cooking mystery
+
+A Godot 2D rural-gothic narrative game set in a rain-soaked Oregon diner. The current Night 1 vertical slice includes cooking, customer dialogue, evidence collection, deduction, save/continue checkpoints, settings persistence, and multiple outcomes.
+
+**Stack:** Godot 4, GDScript, data-driven dialogue, deterministic cooking systems, headless verification
+
+### [Schleimer](https://github.com/ogzkaann/schleimer) · [Live demo](https://schleimer.vercel.app/)
+
+A short persuasion game where deterministic local rules score the interview and optional AI generates only the boss dialogue.
+
+---
+
+## Engineering approach
 
 - Model important behavior with explicit domain types, state machines, and deterministic rules.
-- Keep UI, domain logic, persistence, external services, and rendering systems independently testable.
-- Design for failure: validation, stale data, cancellation, race protection, graceful fallbacks, and clear error states.
-- Measure performance and behavior instead of relying on framework assumptions.
-- Use AI as a constrained component with sources, uncertainty, and human review—not as hidden application logic.
-- Ship projects with tests, CI, documentation, deployment, accessibility checks, and honest limitations.
+- Keep UI, domain logic, persistence, external services, and rendering independently testable.
+- Design for failure through validation, idempotency, cancellation, retries, race protection, and clear recovery paths.
+- Use AI as a constrained component with sources, schemas, uncertainty, and human review.
+- Ship with tests, CI, documentation, accessibility checks, and honest scope boundaries.
 
 ---
 
 ## Technical stack
 
-**Backend:** Java, Spring Boot, Node.js, NestJS, Fastify, REST APIs, OpenAPI, Maven  
+**Backend:** Java, Spring Boot, Spring Cloud, Kafka, Node.js, NestJS, Fastify, REST, OpenAPI, Maven  
 **Frontend:** React, Angular, Vue.js, TypeScript, Next.js, Vite, HTML, CSS  
-**Data:** PostgreSQL, Oracle, PL/SQL, MongoDB, IndexedDB, Flyway  
-**AI & documents:** RAG, OCR, Tesseract.js, PDF.js, BYOK model integrations, structured extraction  
-**Graphics & games:** WebGL2, GLSL, Phaser, Monaco Editor, Web Workers, Unity, C#  
-**Delivery:** Git, GitHub Actions, Docker, Vercel, GitHub Pages, Playwright, Vitest
+**Android:** Kotlin, Jetpack Compose, Room, DataStore, Hilt, Coroutines, Flow  
+**Data & infrastructure:** PostgreSQL, Oracle, PL/SQL, Redis, Flyway, Docker, Keycloak  
+**AI & documents:** RAG, OCR, Tesseract.js, PDF.js, BYOK integrations, structured extraction  
+**Graphics & games:** Godot, Unity, Phaser, WebGL2, GLSL, Monaco Editor, Web Workers  
+**Delivery & testing:** GitHub Actions, Testcontainers, Playwright, Vitest, JUnit, CodeQL, Vercel
 
 ---
 
 ## Experience snapshot
 
-- **Full-Stack / Frontend Developer — Ekinoks Software:** enterprise Angular/TypeScript applications, complex UI modules, API integration, and professional team workflows.
-- **Full-Stack Developer — Fonet Software:** hospital information systems using Java, JavaScript, ExtJS, Oracle, and PL/SQL.
-- **Independent Product Builder:** backend systems, frontend architecture, local-first AI tools, document workflows, and browser-based interactive products.
-- **Game Development — ATOM / METU:** Unity prototypes, gameplay systems, game jams, and product experimentation.
+- **Full-Stack / Frontend Developer — Ekinoks Software:** enterprise Angular and TypeScript applications, complex UI modules, API integration, debugging, and iterative delivery.
+- **Full-Stack Developer — Fonet Software:** Java/JavaScript hospital information systems backed by Oracle and PL/SQL.
+- **Independent Product Builder:** Java platforms, native Android products, local-first AI tools, document workflows, and interactive systems.
+- **Game Development — ATOM / METU:** Unity prototypes, gameplay systems, incubation work, and game jams.
 
 ---
 
 ## Open-source contribution
 
 **Godot Engine — Turkish Localization Contributor**  
-Technical Turkish translations for the official Godot Editor through Weblate, with 87+ translated strings focused on consistent editor terminology.  
+87+ technical Turkish translations for the official Godot Editor through Weblate, focused on consistent editor terminology.  
 [View contribution profile](https://hosted.weblate.org/user/oguzkdere/)
-
----
-
-[Portfolio](https://okdere.com) · [LinkedIn](https://www.linkedin.com/in/oguz-kaan-dere) · [GitHub](https://github.com/ogzkaann) · [Email](mailto:ogzkaann96@gmail.com)
