@@ -21,15 +21,17 @@ A complete educational banking platform demonstrating a durable, eventually cons
 
 **Engineering focus:** immutable account ledgers, reservations and compensation, transactional outboxes, idempotent consumers, Kafka workflows, PostgreSQL-owned service data, Redis-backed protective controls, Keycloak authorization, structured observability, and a role-aware React operations console.
 
-**Quality proof:** OpenAPI and AsyncAPI contracts, Testcontainers integration suites, real Kafka/four-database end-to-end verification, Playwright browser journeys, CodeQL, SBOM generation, and GitHub Actions.
+**Quality proof:** OpenAPI and AsyncAPI contracts, Testcontainers integration suites, real Kafka/four-database end-to-end verification, Playwright browser journeys, CodeQL, SBOM generation, GitHub Actions, a documented production-readiness boundary, release checklist, recruiter demo flow, and a transfer load-testing plan.
 
 **Stack:** Java 25, Spring Boot, Spring Cloud Gateway, Kafka, PostgreSQL, Redis, Keycloak, React, TypeScript, Docker, Playwright
 
-### Tip Tracker — Android earnings and shift ledger
+### [Tip Tracker — Earnings Log](https://github.com/ogzkaann/tip-tracker-showcase) — Android earnings and shift ledger
 
-A private commercial Android product being prepared for Google Play. It helps couriers, hospitality workers, freelancers, and multi-job workers record changing shifts, income, tips, breaks, deductions, and true hourly earnings without requiring an account.
+A proprietary, offline-first Android product being prepared for Google Play, with a public engineering showcase for recruiter and portfolio review. It helps delivery couriers and other shift workers record work, understand user-configured compensation, reconcile pay periods, and track savings goals without requiring an account.
 
-**Engineering focus:** offline-first storage, fast accessible shift entry, job-specific presets, trustworthy money and duration calculations, Room migrations, monthly insights, calendar history, and local German/English PDF timesheets.
+**Engineering focus:** fast accessible shift entry, hourly/per-delivery/hybrid compensation, effective-dated pay and adjustment rules, deterministic bonus and pay-period calculations, gross-payment reconciliation, itemized earnings, Room migrations, calendar history, insights, savings goals, and local PDF/CSV export.
+
+**Privacy and quality:** English, German, and Turkish UI; app-private Room/DataStore persistence; no analytics, ads, account, subscription, cloud sync, or network dependency; explicit non-destructive migrations; unit and instrumentation coverage across financial rules, migrations, Compose flows, and exports.
 
 **Stack:** Kotlin, Jetpack Compose, Material 3, Room, DataStore, Hilt, Coroutines, Flow, Android CI
 
@@ -37,7 +39,7 @@ A private commercial Android product being prepared for Google Play. It helps co
 
 A tactical automation roguelite where players program three autonomous combat robots with a small rule language and watch their logic fight through a deterministic arena run.
 
-**Engineering focus:** tokenizer and recursive-descent parser, typed AST, source diagnostics, budgeted interpreter without `eval`, fixed-step simulation in a Web Worker, Monaco editing, Phaser rendering, and Playwright verification.
+**Engineering focus:** tokenizer and recursive-descent parser, typed AST, source diagnostics, budgeted interpreter without `eval`, fixed-step simulation in a Web Worker, Monaco editing, Phaser rendering, Playwright verification, and a documented deterministic replay design.
 
 **Stack:** React, TypeScript, Phaser 4, Monaco Editor, Web Workers, Vite, Vitest, Playwright
 
@@ -45,7 +47,7 @@ A tactical automation roguelite where players program three autonomous combat ro
 
 A local-first RAG decision-support tool for Germany residence and career-path research.
 
-**Engineering focus:** curated official sources, PDF ingestion, citations, BYOK model access, IndexedDB persistence, conservative uncertainty handling, and separation between evidence, AI explanation, and user decisions.
+**Engineering focus:** curated official sources, PDF ingestion, citations, BYOK model access, IndexedDB persistence, conservative uncertainty handling, and separation between evidence, AI explanation, and user decisions. Current evidence-integrity work defines freshness metadata, exact citation locations, contradictory-source handling, and portable decision exports.
 
 ### [Weather with Shaders](https://github.com/ogzkaann/yet-another-weather-app-but-with-shaders) · [Live demo](https://ogzkaann.github.io/yet-another-weather-app-but-with-shaders/)
 
