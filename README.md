@@ -33,6 +33,8 @@ A proprietary, offline-first Android product being prepared for Google Play, wit
 
 **Privacy and quality:** English, German, and Turkish UI; app-private Room/DataStore persistence; no analytics, ads, account, subscription, cloud sync, or network dependency; explicit non-destructive migrations; unit and instrumentation coverage across financial rules, migrations, Compose flows, and exports.
 
+**Public proof:** the showcase repository includes product screenshots, architecture and engineering-decision notes, testing strategy, privacy documentation, and small illustrative code excerpts without exposing the proprietary production source tree.
+
 **Stack:** Kotlin, Jetpack Compose, Material 3, Room, DataStore, Hilt, Coroutines, Flow, Android CI
 
 ### [Swarm Script](https://github.com/ogzkaann/swarm-script) · [Live demo](https://swarm-script.vercel.app/)
