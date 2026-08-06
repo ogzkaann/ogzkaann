@@ -37,6 +37,16 @@ A proprietary, offline-first Android product being prepared for Google Play, wit
 
 **Stack:** Kotlin, Jetpack Compose, Material 3, Room, DataStore, Hilt, Coroutines, Flow, Android CI
 
+### [Physical Ops Simulator](https://github.com/ogzkaann/physical-ops-simulator) — 3D operations simulation platform
+
+A browser-based discrete-event simulation platform for modeling physical service operations, starting with cafés and quick-service restaurants while keeping the core reusable for retail, clinics, warehouses, and other service environments.
+
+**Engineering focus:** editable 3D venue geometry, operational stations and recipe DAGs, persisted scenarios and workforce constraints, deterministic SimPy queues, obstacle-aware pathfinding, spatial movement and congestion, FastAPI contracts, and renderer-independent simulation truth.
+
+**Current proof:** Phases 1–7 are complete, including a reusable café fixture, customer/order/queue simulation, qualified-staff scheduling, travel and contention metrics, route preview/debug overlays, architecture documentation, end-to-end coverage, and frontend/backend quality gates. Live 3D run visualization, comparative heatmaps, and automated optimization remain explicit roadmap work.
+
+**Stack:** React, TypeScript, Three.js, React Three Fiber, Zustand, Python 3.13, FastAPI, SimPy, Pydantic, Playwright, pytest
+
 ### [Swarm Script](https://github.com/ogzkaann/swarm-script) · [Live demo](https://swarm-script.vercel.app/)
 
 A tactical automation roguelite where players program three autonomous combat robots with a small rule language and watch their logic fight through a deterministic arena run.
@@ -85,13 +95,13 @@ A short persuasion game where deterministic local rules score the interview and 
 
 ## Technical stack
 
-**Backend:** Java, Spring Boot, Spring Cloud, Kafka, Node.js, NestJS, Fastify, REST, OpenAPI, Maven  
-**Frontend:** React, Angular, Vue.js, TypeScript, Next.js, Vite, HTML, CSS  
+**Backend:** Java, Spring Boot, Spring Cloud, Kafka, Python, FastAPI, SimPy, Node.js, NestJS, Fastify, REST, OpenAPI, Maven  
+**Frontend:** React, Angular, Vue.js, TypeScript, Next.js, Vite, Three.js, React Three Fiber, HTML, CSS  
 **Android:** Kotlin, Jetpack Compose, Room, DataStore, Hilt, Coroutines, Flow  
 **Data & infrastructure:** PostgreSQL, Oracle, PL/SQL, Redis, Flyway, Docker, Keycloak  
 **AI & documents:** RAG, OCR, Tesseract.js, PDF.js, BYOK integrations, structured extraction  
 **Graphics & games:** Godot, Unity, Phaser, WebGL2, GLSL, Monaco Editor, Web Workers  
-**Delivery & testing:** GitHub Actions, Testcontainers, Playwright, Vitest, JUnit, CodeQL, Vercel
+**Delivery & testing:** GitHub Actions, Testcontainers, Playwright, Vitest, JUnit, pytest, CodeQL, Vercel
 
 ---
 
@@ -99,7 +109,7 @@ A short persuasion game where deterministic local rules score the interview and 
 
 - **Full-Stack / Frontend Developer — Ekinoks Software:** enterprise Angular and TypeScript applications, complex UI modules, API integration, debugging, and iterative delivery.
 - **Full-Stack Developer — Fonet Software:** Java/JavaScript hospital information systems backed by Oracle and PL/SQL.
-- **Independent Product Builder:** Java platforms, native Android products, local-first AI tools, document workflows, and interactive systems.
+- **Independent Product Builder:** Java platforms, native Android products, local-first AI tools, document workflows, simulation systems, and interactive products.
 - **Game Development — ATOM / METU:** Unity prototypes, gameplay systems, incubation work, and game jams.
 
 ---
