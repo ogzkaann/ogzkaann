@@ -79,13 +79,13 @@ A Godot 2D rural-gothic narrative game set in a rain-soaked Oregon diner. The cu
 
 ### Kurye Patronu — courier life and progression vertical slice
 
-A portrait-first Godot mobile game where the player starts as a walking courier, progresses through vehicles, licenses and better delivery platforms, and improves their home and daily life inside an offline fictional city.
+A portrait-first Godot mobile game where the player starts as a walking courier, progresses through physically represented vehicles, licenses and better delivery platforms, and improves their home and daily life inside an offline fictional city.
 
-**Systems:** 63-junction road graph with route alternatives and live 3D navigation, transport-specific travel, world time and needs, persistent career applications, equipment and home progression, debt and achievements, contextual delivery encounters, first-session onboarding, and versioned save migration.
+**Systems:** unified playable delivery city with route alternatives and manual on-foot 3D navigation, transport-specific travel, multi-package carrying and routing, timed delivery-performance pressure, world time and needs, persistent career applications, equipment and home progression, debt and achievements, contextual delivery encounters, onboarding, and versioned save migration.
 
-**Current status:** playable vertical slice in active development; the private repository is not presented as a finished commercial release.
+**Current status:** playable vertical slice in active development with Android device builds verified through an automated debug-APK workflow; the private repository is not presented as a finished commercial release.
 
-**Stack:** Godot 4.7, GDScript, 3D SubViewport scenes, offline graph routing, data-driven progression
+**Stack:** Godot 4.7, GDScript, 3D SubViewport scenes, offline graph routing, data-driven progression, Android export, GitHub Actions
 
 ### [Schleimer](https://github.com/ogzkaann/schleimer) · [Live demo](https://schleimer.vercel.app/)
 
