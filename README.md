@@ -47,6 +47,16 @@ A browser-based discrete-event simulation platform for modeling physical service
 
 **Stack:** React, TypeScript, Three.js, React Three Fiber, Zustand, Python 3.13, FastAPI, SimPy, Pydantic, Playwright, pytest
 
+### [blog.okdere](https://github.com/ogzkaann/blog-okdere) — resilient editorial platform migration
+
+A standalone editorial application designed to replace a long-running Blogger site without breaking historical article URLs or coupling the migration to a risky one-shot cutover.
+
+**Engineering focus:** deterministic Blogger snapshot import, exact legacy-path preservation, Server Components for public reading routes, Supabase Postgres/Auth/Storage with RLS, server-only admin authorization, moderated comments with rate limiting, TipTap authoring, resilient database-outage fallback, and trusted server-generated 1080×1920 story cards.
+
+**Current proof:** the migration, architecture and operations boundaries are documented; preview deployments remain noindex and isolated from production analytics/DNS; the app includes URL validation, lint, typecheck, tests, production build and audit checks. Production cutover and Supabase configuration remain intentionally separate steps.
+
+**Stack:** Next.js 16, React 19, TypeScript, Supabase, TipTap, Vercel
+
 ### [Swarm Script](https://github.com/ogzkaann/swarm-script) · [Live demo](https://swarm-script.vercel.app/)
 
 A tactical automation roguelite where players program three autonomous combat robots with a small rule language and watch their logic fight through a deterministic arena run.
@@ -108,7 +118,7 @@ A short persuasion game where deterministic local rules score the interview and 
 **Backend:** Java, Spring Boot, Spring Cloud, Kafka, Python, FastAPI, SimPy, Node.js, NestJS, Fastify, REST, OpenAPI, Maven  
 **Frontend:** React, Angular, Vue.js, TypeScript, Next.js, Vite, Three.js, React Three Fiber, HTML, CSS  
 **Android:** Kotlin, Jetpack Compose, Room, DataStore, Hilt, Coroutines, Flow  
-**Data & infrastructure:** PostgreSQL, Oracle, PL/SQL, Redis, Flyway, Docker, Keycloak  
+**Data & infrastructure:** PostgreSQL, Oracle, PL/SQL, Redis, Flyway, Docker, Keycloak, Supabase  
 **AI & documents:** RAG, OCR, Tesseract.js, PDF.js, BYOK integrations, structured extraction  
 **Graphics & games:** Godot, Unity, Phaser, WebGL2, GLSL, Monaco Editor, Web Workers  
 **Delivery & testing:** GitHub Actions, Testcontainers, Playwright, Vitest, JUnit, pytest, CodeQL, Vercel
