@@ -47,7 +47,7 @@ A browser-based discrete-event simulation platform for modeling physical service
 
 **Stack:** React, TypeScript, Three.js, React Three Fiber, Zustand, Python 3.13, FastAPI, SimPy, Pydantic, Playwright, pytest
 
-### [blog.okdere](https://github.com/ogzkaann/blog-okdere) — resilient editorial platform migration
+### [blog.okdere](https://github.com/ogzkaann/blog-okdere-showcase) — resilient editorial platform migration
 
 A standalone editorial application designed to replace a long-running Blogger site without breaking historical article URLs or coupling the migration to a risky one-shot cutover.
 
