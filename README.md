@@ -49,11 +49,11 @@ A browser-based discrete-event simulation platform for modeling physical service
 
 ### [blog.okdere](https://github.com/ogzkaann/blog-okdere-showcase) — resilient editorial platform migration
 
-A standalone editorial application designed to replace a long-running Blogger site without breaking historical article URLs or coupling the migration to a risky one-shot cutover.
+A modern editorial platform that replaced a long-running Blogger publication while preserving its historical URLs and search continuity. **Live demo:** [blog.okdere.com](https://blog.okdere.com)
 
-**Engineering focus:** deterministic Blogger snapshot import, exact legacy-path preservation, Server Components for public reading routes, Supabase Postgres/Auth/Storage with RLS, server-only admin authorization, moderated comments with rate limiting, TipTap authoring, resilient database-outage fallback, and trusted server-generated 1080×1920 story cards.
+**Highlights:** exact preservation of 69 legacy paths, responsive public reading, a private editorial workflow, moderated comments, media management, SEO continuity, and 1080×1920 story cards.
 
-**Current proof:** the migration, architecture and operations boundaries are documented; preview deployments remain noindex and isolated from production analytics/DNS; the app includes URL validation, lint, typecheck, tests, production build and audit checks. Production cutover and Supabase configuration remain intentionally separate steps.
+**Current proof:** the production cutover is complete, all historical URLs were validated, and the public showcase contains screenshots and a deliberately high-level architecture overview without production implementation or configuration.
 
 **Stack:** Next.js 16, React 19, TypeScript, Supabase, TipTap, Vercel
 
