@@ -51,9 +51,9 @@ A browser-based discrete-event simulation platform for modeling physical service
 
 A modern editorial platform that replaced a long-running Blogger publication while preserving its historical URLs and search continuity. **Live demo:** [blog.okdere.com](https://blog.okdere.com)
 
-**Highlights:** exact preservation of 69 legacy paths, responsive public reading, a private editorial workflow, moderated comments, guarded first-party read tracking, editorial discussion prompts, media management, SEO continuity, and 1080×1920 story cards.
+**Highlights:** exact preservation of 69 legacy paths, responsive public reading, a private editorial workflow, moderated comments, guarded first-party read tracking, per-post character cards with contextual scene overrides, editorial related reading, RSS-first follow flows, media management, SEO continuity, and 1080×1920 story cards.
 
-**Current proof:** the production cutover is complete and all historical URLs were validated. Recent production work adds per-article read statistics and editorial engagement controls, plus hardened tag canonical/noindex behavior and sitemap freshness tied to actual post updates. The public showcase deliberately exposes only screenshots and high-level architecture rather than production implementation or configuration.
+**Current proof:** the production cutover is complete and all historical URLs were validated. Recent codebase work adds character-aware article reading, deterministic related-reading ranking, RSS continuation, richer TipTap image alt/caption editing, Turkish-safe slug generation, and advisory publishing guidance while preserving legacy HTML and existing migration boundaries. The public showcase deliberately exposes only screenshots and high-level architecture rather than production implementation or configuration.
 
 **Stack:** Next.js 16, React 19, TypeScript, Supabase, TipTap, Vercel
 
